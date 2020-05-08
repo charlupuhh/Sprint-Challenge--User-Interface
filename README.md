@@ -34,15 +34,29 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
+<!--
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+Semantic HTML is giving meaning to content, like labeling it. Much in the way you might have a sign saying this is a bathroom
+or that is a fire exit, we have signs indicating something is a header or navigation.
 
 2. What are the 4 areas of the box model?
+- Content
+- Border
+- Padding
+- Margin
 
 3. While using flexbox, what axis does the following property work on: ```align-items: center```?
+It works on the axis normal to what you're working on.
 
 4. Explain why git is valuable to a team of developers.
+Git allows version control, so multiple people can work on a project but make sure changes don't get messy or lost, as well as
+providing backup/safety for the project.
 
 5. Define mobile-first design in your own words.
+Mobile first design is designing your web page to be mobile friendly, and then adjusting it to tablet/computer screen compatability
+through the use of min-width in the CSS
+
+-->
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
@@ -108,3 +122,4 @@ Follow these steps for completing your project.
 - [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
 - [ ] Add your team lead as a reviewer on the pull-request
 - [ ] Your team lead will count the project as complete by merging the branch back into master
+
