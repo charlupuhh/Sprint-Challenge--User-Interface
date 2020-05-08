@@ -92,6 +92,10 @@ header{
     font-size: 1.2rem;
 }
 
+.nav-bar a:hover{
+    text-decoration: underline;
+}
+
 header img{
     margin: 4% 2%;
     max-width: 100%;
@@ -136,6 +140,10 @@ header img{
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.middle-content .boxes .box:hover {
+    transform: scale(1.2);
 }
 
 /* Box Coloring */
